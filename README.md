@@ -12,13 +12,23 @@ El proyecto está construido sobre el siguiente stack tecnológico:
 
 ## Frontend
 
-1. Navegar al directorio del frontend e instalar las dependencias:
+1. Clonar el repositorio:
+    ```bash
+    git clone https://github.com/Edga-r17/frontend_productos.git
+    ```
+
+2. Entrar al repositorio:
+    ```bash
+    cd frontend_productos
+    ```
+
+3. Navegar al directorio del frontend e instalar las dependencias:
     ```bash
     cd frontend
     npm install
     ```
 
-2. Levantar el proyecto:
+4. Levantar el proyecto:
     ```bash
     npm start
     ```
